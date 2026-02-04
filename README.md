@@ -8,7 +8,7 @@ This repository contains two Python scripts:
 
 ## 1) Echo (`echo.py`)
 
-### How to run
+#### How to run
 ```bash
 python echo.py
 
@@ -21,7 +21,7 @@ o
 .
 ```
 ## 2) Fib (`fib.py`)
-### How to run
+#### How to run
 ```bash
 python fib.py
 
